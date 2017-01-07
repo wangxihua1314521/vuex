@@ -5,7 +5,7 @@ A collection of Vue.js demos
 
 ```bash
 # clone this repo
-git clone https://github.com/xiaoluoboding/vue-demo-collection.git
+git clone 
 
 # change dir
 cd vue-demo-collection
